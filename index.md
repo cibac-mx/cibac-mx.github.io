@@ -1,8 +1,8 @@
 # MANUAL DE OPERACIONES
 
 ## ANTECEDENTES
- - [Historia](Historia.md)
-   - Aspectos legales
+ - [Historia](antecedentes.md)
+   - [Aspectos legales](antecedentes.html#aspectos-legales)
  - Misión
  - Visión
  - Objetivos
