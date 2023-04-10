@@ -53,7 +53,7 @@ Meta:  Lograr la mayor mejora e independencia de nuestros pacientes
  - Otorgar oportunidades de desarrollo profesional a colaboradores de la salud.
  - Ser autosustentables en cuanto a operación e investigación.
  
- ## Valores
+## Valores
   - Adaptabilidad. – El CIBAC está convencido de que, para brindar un servicio de excelencia, es necesario adaptarse a tecnologías y contextos cada vez más dinámicos, por lo que se asegura la capacitación constante de los profesionales.
   - Igualdad. – Se trata a todas las personas con el mismo respeto, sin distinción de raza, sexo, estatus social o nacionalidad, en total acuerdo con los postulados de la convención internacional por los Derechos del Niño.
   - Diversidad. – Se procura incluir todas las voces. La junta directiva aspira a incorporar jóvenes que representen los intereses de sus comunidades.
