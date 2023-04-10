@@ -1,8 +1,7 @@
 # MANUAL DE OPERACIONES
 
 ## ANTECEDENTES
- - Historia
- - [Historia](https://cibac-mx.github.io/Historia.md)
+ - [Historia](https://raw.githubusercontent.com/cibac-mx/cibac-mx.github.io/main/Historia.md)
    - Aspectos legales
  - Misión
  - Visión
