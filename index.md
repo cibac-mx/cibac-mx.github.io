@@ -1,12 +1,12 @@
 # MANUAL DE OPERACIONES
 
 ## ANTECEDENTES
- - [Historia](antecedentes.md)
+ - [Historia](antecedentes.md#historia)
    - [Aspectos legales](antecedentes.html#aspectos-legales)
- - Misión
- - Visión
- - Objetivos
- - Valores
+ - [Misión](antecedentes.html#misión)
+ - [Visión](antecedentes.html#visión)
+ - [Objetivos](antecedentes.html#objetivos)
+ - [Valores](antecedentes.html#valores)
  
 ## POLÍTICAS
  - Principios éticos
