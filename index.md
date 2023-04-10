@@ -1,3 +1,6 @@
+---
+title-heading: false
+---
 # MANUAL DE OPERACIONES
 ## ANTECEDENTES
  - Historia
