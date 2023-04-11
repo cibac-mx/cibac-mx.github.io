@@ -8,7 +8,7 @@
  - [Objetivos](antecedentes.md#objetivos)
  - [Valores](antecedentes.md#valores)
  
-## POLÍTICAS
+## [POLÍTICAS](politicas.md)
  - Principios éticos
  - Confidencialidad
  - Protección de activos
@@ -18,7 +18,7 @@
  - Seguridad, higiene y lugar de trabajo
  - Politica y religión
  
-## ORGANIZACIÓN
+## [ORGANIZACIÓN](organizacion.md)
  - Direccion operativa
  - Consejo
    - Consejo directivo
@@ -36,7 +36,7 @@
    - Proyectos de consultoría
    - Ingeniería
    
-## PRODUCTOS Y SERVICIOS
+## [PRODUCTOS Y SERVICIOS](productosyservicios.md)
  - Rehabilitación
    - Terapia de rehabilitación robótiva neurológica
    - Rehabilitación tradicional
@@ -54,9 +54,9 @@
    - Valoración deportiva rápida
    - Valoración de distribución de presión
    
-## PLANES DE ACCIÓN
+## [PLANES DE ACCIÓN](planesdeaccion.md)
 
-## COMUNICACIÓN
+## [COMUNICACIÓN](comunicacion.md)
  - Comunicación externa
    - Firma electrónica
  - Comunicación interna
@@ -65,9 +65,9 @@
    - Calendario
    - Archivos
    
-## CUIDADOS ADICIONALES POR COVID-19
+## [CUIDADOS ADICIONALES POR COVID-19](cuidadoscovid)
 
-## LITERATURA RECOMENDADA
+## [LITERATURA RECOMENDADA](literaturarecomendada.md)
  - Artículos
    - Gimnasio de rehabilitación robótica
    - Telerehabilitación
