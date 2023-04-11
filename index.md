@@ -9,68 +9,68 @@
  - [Valores](antecedentes.md#valores)
  
 ## [POLÍTICAS](politicas.md)
- - Principios éticos
- - Confidencialidad
- - Protección de activos
- - Conflicto de intereses
- - Conducta interna
- - Cumplimiento de leyes locales
- - Seguridad, higiene y lugar de trabajo
- - Politica y religión
+ - [Principios éticos](politicas.html#principios-éticos)
+ - [Confidencialidad](politicas.html#confidencialidad)
+ - [Protección de activos](politicas.html#protección-de-activos)
+ - [Conflicto de intereses](politicas.html#conflicto-de-intereses)
+ - [Conducta interna](politicas.html#conducta-interna)
+ - [Cumplimiento de leyes locales](politicas.html#cumplimiento-de-leyes-y-reglamentos-locales)
+ - [Seguridad, higiene y lugar de trabajo](politicas.html#seguridad-higiene-y-lugar-de-trabajo)
+ - [Politica y religión](politicas.html#política-y-religión)
  
 ## [ORGANIZACIÓN](organizacion.md)
- - Direccion operativa
- - Consejo
-   - Consejo directivo
-   - Consejo Consultivo
- - Técnico
-   - Directior médico
-   - Jefe de terapia
-   - Terapeutas
-   - Estuiantes
- - Administrativo
-   - Administración
-   - Mercadotecnia
-   - Estudiantes
- - Consultoría
-   - Proyectos de consultoría
-   - Ingeniería
+ - [Direccion operativa](organizacion.html#dirección-operativa)
+ - [Consejo](organizacion.html#consejo)
+   - [Consejo directivo](organizacion.html#consejo-directivo)
+   - [Consejo Consultivo](organizacion.html#consejo-consultivo)
+ - [Personal](organizacion.html#personal)
+   - [Directior médico](organizacion.html#director-médico)
+   - [Jefe de terapia](organizacion.html#jefe-de-terapia)
+   - [Terapeutas](organizacion.html#terapeutas)
+   - [Estuiantes](organizacion.html#estudiantes)
+ - [Administrativo](organizacion.html#administrativo)
+   - [Administración](organizacion.html#administración)
+   - [Mercadotecnia](organizacion.html#mercadotecnia)
+   - [Estudiantes](organizacion.html#estudiantes-1)
+ - [Consultoría](organizacion.html#consultoría)
+   - [Proyectos de consultoría](organizacion.html#proyectos-de-consultoría)
+   - [Ingeniería](organizacion.html#ingeniería)
    
 ## [PRODUCTOS Y SERVICIOS](productosyservicios.md)
- - Rehabilitación
-   - Terapia de rehabilitación robótiva neurológica
-   - Rehabilitación tradicional
-   - Rehabilitación de pacientes amputados post quirúrgico
-   - Rehabilitación en línea
- - Análisis de movimiento
-   - Análisis de movimiento clínico
-   - Análisis de movimiento deportivo completo
- - Taller de tecnologías de asistencia
-   - Adaptación de sillas de ruedas
-   - Plantillas
- - Valoraciones
-   - Valoraciones cuatitativas del paciente neurológico
-   - Valoración funcional deportiva
-   - Valoración deportiva rápida
-   - Valoración de distribución de presión
+ - [Rehabilitación](productosyservicios.html#rehabilitación)
+   - [Terapia de rehabilitación robótiva neurológica](productosyservicios.html#terapia-de-rehabilitación-robótica-neurológica)
+   - [Rehabilitación tradicional](productosyservicios.html#rehabilitación-tradicional)
+   - [Rehabilitación de pacientes amputados post quirúrgico](productosyservicios.html#rehabilitación-de-pacientes-amputados-post-quirúrgico)
+   - [Rehabilitación en línea](productosyservicios.html#rehabilitación-en-línea)
+ - [Análisis de movimiento](productosyservicios.html#análisis-de-movimiento)
+   - [Análisis de movimiento clínico](productosyservicios.html#análisis-de-movimiento-clínico)
+   - [Análisis de movimiento deportivo completo](productosyservicios.html#análisis-de-movimiento-deportivo-completo)
+ - [Taller de tecnologías de asistencia](productosyservicios.html#taller-de-tecnologías-de-asistencia)
+   - [Adaptación de sillas de ruedas](productosyservicios.html#adaptación-de-sillas-de-ruedas)
+   - [Plantillas](productosyservicios.html#plantillas)
+ - [Valoraciones](productosyservicios.html#valoraciones)
+   - [Valoraciones cuatitativas del paciente neurológico](productosyservicios.html#valoraciones-cuantitativas-del-paciente-neurológico)
+   - [Valoración funcional deportiva](productosyservicios.html#valoración-funcional-deportiva)
+   - [Valoración deportiva rápida](productosyservicios.html#valoración-deportiva-rápida)
+   - [Valoración de distribución de presión](productosyservicios.html#valoración-de-distribución-de-presión)
    
 ## [PLANES DE ACCIÓN](planesdeaccion.md)
 
 ## [COMUNICACIÓN](comunicacion.md)
- - Comunicación externa
-   - Firma electrónica
- - Comunicación interna
-   - Canales de MS Teams
-   - Chat y llamadas
-   - Calendario
-   - Archivos
+ - [Comunicación externa](comunicacion.html#comunicación-externa)
+   - [Firma electrónica](comunicacion.html#firmaelectrónica)
+ - [Comunicación interna](comunicacion.html#comunicación-interna)
+   - [Canales de MS Teams](comunicacion.html#canales-de-ms-teams)
+   - [Chat y llamadas](comunicacion.html#chat-y-llamadas)
+   - [Calendario](comunicacion.html#calendario)
+   - [Archivos](comunicacion.html#archivos)
    
 ## [CUIDADOS ADICIONALES POR COVID-19](cuidadoscovid)
 
 ## [LITERATURA RECOMENDADA](literaturarecomendada.md)
- - Artículos
-   - Gimnasio de rehabilitación robótica
-   - Telerehabilitación
-   - Laboratorio de análisis de movimiento
- - Libros
-   - Laboratorio de análisis de movimiento
+ - [Artículos](literaturarecomendada.html#artículos)
+   - [Gimnasio de rehabilitación robótica](literaturarecomendada.html#gimnasio-de-rehabilitación-robótica)
+   - [Telerehabilitación](literaturarecomendada.html#telerehabilitación)
+   - [Laboratorio de análisis de movimiento](literaturarecomendada.html#laboratorio-de-análisis-de-movimiento)
+ - [Libros](literaturarecomendada.html#libros)
+   - [Laboratorio de análisis de movimiento](literaturarecomendada.html#laboratorio-de-análisis-de-movimiento-1)
