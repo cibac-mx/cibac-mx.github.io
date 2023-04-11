@@ -1,5 +1,5 @@
 # ORGANIZACION
-El organigrama que se muestra haciendo clic [aquí](), es una representación de la manera en que el Centro está organizado y cuyas áreas se desarrollarán a continuación.
+El organigrama que se muestra haciendo clic [aquí](https://cibac.sharepoint.com/:p:/s/CIBAC/EYHzFAvidyhBnzBYkxsfK2MBJClr3U3ANlnSzm0NvPQrAA?e=Y5yD7e), es una representación de la manera en que el Centro está organizado y cuyas áreas se desarrollarán a continuación.
 
 ## Dirección operativa
 ### Convenios
