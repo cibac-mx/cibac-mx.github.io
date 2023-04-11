@@ -40,13 +40,13 @@ A través de este contrato, se hace referencia a los servicios y responsabilidad
 Para acceder al contrato de colaboración con Jessica Iracheta Hernández, dar clic [aquí](https://cibac.sharepoint.com/:w:/r/sites/Directivos/_layouts/15/Doc.aspx?sourcedoc=%7BB8521EF0-2C26-40ED-A4E3-D8412C7646A3%7D&file=Convenio%20Colaboracion%20-%20Jessica%20Iracheta.docx&action=default&mobileredirect=true).
 
 ## Consejo
-#### Consejo Directivo
-#### Consejo Consultivo
+### Consejo Directivo
+### Consejo Consultivo
 Grupo de empresarios que apoyan al Centro con orientación, experiencia, consejos, organización, ideas, respaldo y es a quiénes se le dan los reportes del desarrollo del CIBAC.
 ## Personal
-#### Director Médico
+### Director Médico
 El Director Médico tiene como objetivo la supervisión médica de los pacientes del CIBAC por medio de implementación de medicina y cumplimiento de normas nacionales e internacionales. Se pueden encontrar sus funciones, educación requerida, perfil y responsabilidades haciendo clic [aquí](https://cibac.sharepoint.com/:b:/s/CIBAC/ES_9Ib2bz0lCkvhGJbMeQo0BYNLwCeE-inmgtKpS5iUGMQ?e=RHCCl5).
-#### Jefe de Terapia
+### Jefe de Terapia
 Es el responsable de administrar los recursos de terapia y verificar que se cumplan los protocolos y funciones en el área de terapia física.
  - Reportes mensuales:
    - Reporte con: Descripción del paciente, historial, numero de sesiones, intervención y objetivos, y estatus actual. (firmado por el terapeuta a cargo y el médico tratante)
@@ -64,14 +64,14 @@ Es el responsable de administrar los recursos de terapia y verificar que se cump
    - Ingreso de nuevos pacientes.
    - Reportes mensuales de terapias dadas e ingresos de pacientes.
 
-#### Terapeutas
+### Terapeutas
 El papel del fisioterapeuta dentro del Centro de investigación en Bioingeniería comienza con la evaluación física del paciente. Para ello se hará uso de diversas herramientas de evaluación que se denominarán pruebas funcionales desarrolladas a profundidad haciendo clic [aquí](https://cibac.sharepoint.com/:w:/s/CIBAC/EQGM7quhbM9HkDdza-rBPCUBqtkjXaC_cky90odYATqE4Q?e=yyvJGf).
 
-#### Estudiantes
+### Estudiantes
 El papel del fisioterapeuta dentro del Centro de investigación en Bioingeniería comienza con la evaluación física del paciente. Para ello se hará uso de diversas herramientas de evaluación que se denominarán pruebas funcionales desarrolladas a profundidad haciendo clic [aquí](https://cibac.sharepoint.com/:w:/s/CIBAC/EQGM7quhbM9HkDdza-rBPCUBqtkjXaC_cky90odYATqE4Q?e=yyvJGf).
 
 ## Administrativo
-#### Administración
+### Administración
 Es el responsable de administrar los recursos monetarios.
  - Actividades diarias:
    - Recibir pacientes.
@@ -141,7 +141,7 @@ Es el responsable de administrar los recursos monetarios.
    - Llamar a los pacientes para decirles el resultado del estudio socioeconómico.
    - Imprimir expediente para nuevos pacientes.
 
-##### Contrataciones
+#### Contrataciones
 Algunas de las tareas del personal administrativo para las nuevas contrataciones son:
  - Analizar a profundidad las necesidades del puesto y de la organización.
  - Realizar una descripción funcional exhaustiva del puesto.
@@ -157,17 +157,17 @@ Algunas de las tareas del personal administrativo para las nuevas contrataciones
  - Incorporación e integración del nuevo profesional (Firma del contrato).
 El contrato para su mayor entendimiento y para caso de análisis se puede acceder haciendo clic [aquí](https://cibac.sharepoint.com/:u:/s/CIBAC/EU6kwSv_Kv5Eiv1q9O7SctUBF0OalkWgU17kwxAYQiNRPQ?e=R6VfjY).
 
-#### Mercadotecnia
+### Mercadotecnia
 El canal principal en el que se tratarán los temas sobre este departamento será Mercadotecnia, contendrá los posts para las distintas redes sociales. Para encontrar logotipos e imágenes para hojas membretadas o sellos de la asociación dar clic [aquí](https://cibac.sharepoint.com/sites/CIBAC/Shared%20Documents/Forms/AllItems.aspx?viewid=7edac3c9%2D8b75%2D46bd%2Db417%2Db9bc76322894&id=%2Fsites%2FCIBAC%2FShared%20Documents%2FComunicación%20y%20Mercadotecnia%2FLogotipos%2FLogotipos%202%2E0).
 
 Las carpetas compartidas en SharePoint para el área de mercadotecnia serán administradas por directivos, personal de consejo y encargados del área. Aquí se encuentran imágenes y videos para campañas de publicidad y redes sociales. Para encontrar una descripción de los pasos para realizar una publicación o compartir una imagen dar clic [aquí]().
-#### Estudiantes
+### Estudiantes
 Los estudiantes realizaran tareas de asistencia para el departamento en el que sean asignados. Se contará con la supervisión de un terapeuta o personal administrativo para dudas o problemas relacionados con el área en el que se desarrollan.
 
 ## Consultoría
-#### Proyectos de consultoría
+### Proyectos de consultoría
  - Cualquier proyecto externo al CIBAC, ya sea de industrias o empresas, que solicite información o maquinaria sobre temas relacionados con los mismos del CIBAC.
-#### Ingeniería
+### Ingeniería
  - Responsable de las áreas:
  - Consultoría especializada.
  - Área de robótica. Revisión de estados de los equipos, búsqueda de proveedores de equipos, conexión con los proveedores de equipos.
