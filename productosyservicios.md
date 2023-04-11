@@ -40,4 +40,53 @@ Es una Evaluación de la cinética, cinemática, activación muscular durante la
 **Bloque mínimo recomendado**: Se recomienda realizar 2 pruebas, pre-post como herramienta de avance cuantitativo.
 
 **Aplicación**: Para secuelas de EVC, parálisis cerebral y ortopédicos.
-#####
+##### Análisis de movimiento para pacientes amputados
+Es una valoración del tipo de marcha dependiendo del tipo de prótesis utilizada.
+
+#### Análisis de movimiento deportivo completo
+Requiere del uso de la tecnología disponible, cámaras, EMG, tapete de baropodometría, plataformas de fuerza, entre otros. La finalidad es observar la biomecánica del atleta al ejecutar su técnica deportiva. Se utiliza la medición de ROM’s como manejo para prevención del dolor y lesiones y EMG dinámica para evaluar cadena cinemática de ejecución y grupos musculares con baja activación, así como evaluación de la marcha.
+
+**Duración**: Variable a las condiciones y deporte entre 4 y 8 horas.
+
+**Aplicación**: Se utiliza para todo tipo de atletas.
+
+## Taller de Tecnologías de Asistencia
+#### Adaptación de sillas de ruedas
+Cada silla de ruedas es un dispositivo que permite al paciente mejorar su movilidad e inclusión.  Una silla de ruedas mal adaptada puede causar problemas recurrentes, corrección de la postura y el asiento.
+
+La adaptación de sillas de ruedas consiste en agregar o quitar dispositivos para lograr una posición ideal y cómoda para el paciente de acuerdo a los requerimientos médicos.
+
+**Duración**: Variable de la silla en cuestión.
+
+#### Plantillas
+Consiste en un mapeo de la distribución plantar como herramienta para el diseño y plantillas de un material. Es necesario contactar a Demetrio de plantillas.
+
+**Duración**: Variable de la silla en cuestión.
+
+**Aplicación**: Para pacientes ortopédicos.
+
+## Valoraciones
+#### Valoraciones cuantitativas del paciente neurológico
+Es una valoración de la función motora en pacientes neurológicas utilizando escalas científicamente validadas. Por medio de estas valoraciones nos permite personalizar el tratamiento.  Se puede encontrar el manual de elaboración forma Fulg Meyer haciendo click [aquí](https://cibac.sharepoint.com/:w:/s/CIBAC/Efy-E4tY5ZdHroK4hzshj9wBTmuMphW2mJwHuEQqQptdnw?e=kGHVTv).
+
+**Duración**: 2 horas y media por sesión.
+
+**Aplicación**: Para secuelas de EVC, lesión medular y parálisis cerebral.
+#### Valoración funcional deportiva
+Es una valoración de la función motora a deportistas como herramienta para la prevención de lesiones utilizando escalas científicamente validadas.
+
+**Duración**: 1 hora por sesión.
+
+**Aplicación**: Para todo tipo de atletas.
+#### Valoración deportiva rápida
+Es una valoración de la función motora a deportistas como herramienta para la prevención de lesiones, así como uso de equipamiento de alta tecnología para determinar las fuerzas involucradas en algunos movimientos como el salto, test de Bosco, prueba de agilidad entre otras.
+
+**Duración**: 1 hora y media por sesión.
+
+**Aplicación**: Para todo tipo de atletas.
+#### Valoración de distribución de presión
+Es la medición de presión plantar, puntos de presión máxima mediante sistema de baropodometría. Con este sistema se pueden ver áreas de alta presión que pudieran causar una úlcera de presión.
+
+**Duración**: Media hora por sesión.
+
+**Aplicación**: Para pacientes ortopédicos y de diabetes.
