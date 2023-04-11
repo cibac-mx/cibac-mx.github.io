@@ -12,13 +12,20 @@
 [NIH RESEARCH ETHICS](https://researchethics.od.nih.gov/CourseIndex.aspx)
 
 ## Confidencialidad
-  1. Quienes laboran en CIBAC son responsables de velar por la confidencialidad, integridad, veracidad, seguridad y disponibilidad de la información.
-  2. Se podrá tratar información personal, sensible, patrimonial o financiero con el fin de identificar, realizar expediente clínico, otorgar servicios de desarrollar, tratamientos, pronósticos, investigación y estudios socioeconómicos.
-  3. Se vigilará que la información sea generada, operada, modificada, almacenada, conservada, divulgada o destruida, de acuerdo con las normas y reglamentos de la institución.
-  4. Se protegerá la confidencialidad de los registros personales, que permanecerán restringidos a quienes tienen necesidad funcional de conocerlos, salvo si el colaborador autorizase su divulgación o si fuese exigido por ley.
-  5. Quedará prohibida la manipulación de información sobre los negocios de la empresa o de sus clientes para obtener beneficio personal o para generar beneficios o perjuicios a terceros.
-  6. Se respetará la propiedad intelectual, no usando para fines particulares, ni dando conocer a otros, tecnologías, marcas, metodologías y cualquier tipo de informaciones que pertenezcan a CIBAC, aunque hayan sido obtenidas o desarrolladas por el propio colaborador en su ambiente de trabajo.
-  7. Nos comprometemos a no transferir su información personal a terceros sin su consentimiento explicito, salvo las excepciones previstas en el artículo 37 de la Ley, así como a realizar esta en los términos que fija la ley.
+  i. Quienes laboran en CIBAC son responsables de velar por la confidencialidad, integridad, veracidad, seguridad y disponibilidad de la información.
+  
+  ii. Se podrá tratar información personal, sensible, patrimonial o financiero con el fin de identificar, realizar expediente clínico, otorgar servicios de desarrollar, tratamientos, pronósticos, investigación y estudios socioeconómicos.
+  
+  iii. Se vigilará que la información sea generada, operada, modificada, almacenada, conservada, divulgada o destruida, de acuerdo con las normas y reglamentos de la institución.
+  
+  iv. Se protegerá la confidencialidad de los registros personales, que permanecerán restringidos a quienes tienen necesidad funcional de conocerlos, salvo si el colaborador autorizase su divulgación o si fuese exigido por ley.
+  
+  v. Quedará prohibida la manipulación de información sobre los negocios de la empresa o de sus clientes para obtener beneficio personal o para generar beneficios o perjuicios a terceros.
+  
+  vi. Se respetará la propiedad intelectual, no usando para fines particulares, ni dando conocer a otros, tecnologías, marcas, metodologías y cualquier tipo de informaciones que pertenezcan a CIBAC, aunque hayan sido obtenidas o desarrolladas por el propio colaborador en su ambiente de trabajo.
+  
+  vii. Nos comprometemos a no transferir su información personal a terceros sin su consentimiento explicito, salvo las excepciones previstas en el artículo 37 de la Ley, así como a realizar esta en los términos que fija la ley.
+  
 Se puede encontrar más información del aviso de privacidad haciendo clic [aquí](https://cibac.sharepoint.com/sites/CIBAC/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCIBAC%2FShared%20Documents%2FComunicaci%C3%B3n%20y%20Mercadotecnia%2FPagina%20web%2F2004%20Aviso%20de%20privacidad%2Epdf&parent=%2Fsites%2FCIBAC%2FShared%20Documents%2FComunicaci%C3%B3n%20y%20Mercadotecnia%2FPagina%20web&p=true&ga=1). 
 
 ## Protección de activos
