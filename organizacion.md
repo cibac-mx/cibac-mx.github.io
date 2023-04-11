@@ -1,4 +1,4 @@
-# ORGANIZAION
+# ORGANIZACION
 El organigrama que se muestra haciendo clic [aquí](), es una representación de la manera en que el Centro está organizado y cuyas áreas se desarrollarán a continuación.
 
 ## Dirección operativa
