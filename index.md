@@ -27,7 +27,7 @@
    - [Directior médico](organizacion.html#director-médico)
    - [Jefe de terapia](organizacion.html#jefe-de-terapia)
    - [Terapeutas](organizacion.html#terapeutas)
-   - [Estuiantes](organizacion.html#estudiantes)
+   - [Estudiantes](organizacion.html#estudiantes)
  - [Administrativo](organizacion.html#administrativo)
    - [Administración](organizacion.html#administración)
    - [Mercadotecnia](organizacion.html#mercadotecnia)
