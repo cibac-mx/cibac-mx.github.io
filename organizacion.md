@@ -160,7 +160,7 @@ El contrato para su mayor entendimiento y para caso de análisis se puede accede
 ### Mercadotecnia
 El canal principal en el que se tratarán los temas sobre este departamento será Mercadotecnia, contendrá los posts para las distintas redes sociales. Para encontrar logotipos e imágenes para hojas membretadas o sellos de la asociación dar clic [aquí](https://cibac.sharepoint.com/sites/CIBAC/Shared%20Documents/Forms/AllItems.aspx?viewid=7edac3c9%2D8b75%2D46bd%2Db417%2Db9bc76322894&id=%2Fsites%2FCIBAC%2FShared%20Documents%2FComunicación%20y%20Mercadotecnia%2FLogotipos%2FLogotipos%202%2E0).
 
-Las carpetas compartidas en SharePoint para el área de mercadotecnia serán administradas por directivos, personal de consejo y encargados del área. Aquí se encuentran imágenes y videos para campañas de publicidad y redes sociales. Para encontrar una descripción de los pasos para realizar una publicación o compartir una imagen dar clic [aquí]().
+Las carpetas compartidas en SharePoint para el área de mercadotecnia serán administradas por directivos, personal de consejo y encargados del área. Aquí se encuentran imágenes y videos para campañas de publicidad y redes sociales. Para encontrar una descripción de los pasos para realizar una publicación o compartir una imagen dar clic [aquí](https://cibac.sharepoint.com/:f:/s/CIBAC/EmWl8ntif8hHoVVKw-bModcBGD_AbkEIky43WVkQGZhYNQ?e=qB6vKe).
 ### Estudiantes
 Los estudiantes realizaran tareas de asistencia para el departamento en el que sean asignados. Se contará con la supervisión de un terapeuta o personal administrativo para dudas o problemas relacionados con el área en el que se desarrollan.
 
