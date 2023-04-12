@@ -10,7 +10,7 @@ La finalidad del manual de comunicación externa es mostrar la manera correcta d
 
 Para más información sobre el funcionamiento de Office Outlook dar click [aquí](https://support.microsoft.com/en-us/outlook).
 
-Para crear un nuevo documento se utilizará la hoja membretada de CIBAC, siguiendo las indicaciones mostradas en el mismo. Tendrá que contener la fecha en el que se creó el documento y tendra validez oficial. Para acceder a la hoja membretada dar click [aquí]().
+Para crear un nuevo documento se utilizará la hoja membretada de CIBAC, siguiendo las indicaciones mostradas en el mismo. Tendrá que contener la fecha en el que se creó el documento y tendra validez oficial. Para acceder a la hoja membretada dar click [aquí](https://cibac.sharepoint.com/:w:/s/CIBAC/ESZDkVeS0oVDjCxfZAtRaQ0B0zYMvZHYFHc92MgWZj3oAQ?e=0YxI1x).
 ### Firmaelectrónica
 a asociación civil proveerá una firma electrónica con los datos correspondientes y el aviso de privacidad, para generar la firma electrónica personalizada dar click [aquí](https://cibac.sharepoint.com/:w:/r/sites/CIBAC/_layouts/15/doc2.aspx?sourcedoc=%7BD4E739A5-4250-45F6-8A23-1702475F3A0F%7D&file=1908%20Formato%20de%20firma%20de%20correo%20electronico.docx&action=edit&mobileredirect=true).
 ## Comunicación interna
@@ -36,4 +36,4 @@ Aquí se encontrarán los archivos a los cuales se fue dado el acceso dependiend
 
 Los archivos serán guardados en SharePoint CIBAC, en el separado de clínico, directivos, etc. dependiendo donde corresponda. El nombramiento de archivos de acuerdo a lo establecido en la asociación se hará de una manera específica, para más información dar click [aquí](https://cibac.sharepoint.com/:w:/r/sites/CIBAC/_layouts/15/Doc.aspx?sourcedoc=%7B6866D639-DA8D-45BA-975B-8AB7C680CF7C%7D&file=2001%20Nombramiento%20de%20archivos.docx&action=edit&mobileredirect=true).
 
-Para crear un nuevo documento se utilizará la hoja membretada de CIBAC, siguiendo las indicaciones mostradas en el mismo. Tendrá que contener la fecha en el que se creó el documento y tendra validez oficial. Para acceder a la hoja membretada dar click [aquí]().
+Para crear un nuevo documento se utilizará la hoja membretada de CIBAC, siguiendo las indicaciones mostradas en el mismo. Tendrá que contener la fecha en el que se creó el documento y tendra validez oficial. Para acceder a la hoja membretada dar click [aquí](https://cibac.sharepoint.com/:w:/s/CIBAC/ESZDkVeS0oVDjCxfZAtRaQ0B0zYMvZHYFHc92MgWZj3oAQ?e=0YxI1x).
